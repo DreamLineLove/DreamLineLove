@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello+everyone!!!;My+name's+Zwe+Nyan+Zaw.;I'm+a+front-end+developer." alt="typing intro">
+<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello+everyone!!!;My+name's+Zwe+Nyan+Zaw.;I'm+a+Software+Engineer." alt="typing intro">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreamlinelove&label=Profile%20views&color=0e75b6&style=flat-square" alt="dreamlinelove" /></p>
 
@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently studying my bachelor's in **Computer Science**
 
-- 🚀 My current domain is **Backend and Server development**, although I come from a frontend background 
+- 🚀 My current domain is **Server and Backend engineering**, although I have done a lot of frontend 
 
-- 🤔 So in a way I can do **both** frontend and backend development
+- 🤔 So in a way I can do **both** frontend and backend
 
 - 💬 Ask me about **Rust, Golang, Javascript, and React**
 
-- 🌱 I’m currently learning **backend development**
+- 🌱 I’m currently learning **full-stack engineering**
 
 - 📫 Reach me at 👉🏻 **zwenyanzaw@protonmail.com**
 

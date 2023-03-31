@@ -10,17 +10,15 @@
 
 - 🔭 I’m currently studying my bachelor's in **Computer Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dreamlinelove](https://github.com/dreamlinelove)
+- 🚀 My current domain is **Backend and Server development**, although I come from a frontend background 
 
-- 💬 Ask me about **React, NextJS, Firebase, CSS, Animations, Astro.**
+- 🤔 So in a way I can do **both** frontend and backend development
 
-- 🌱 I’m currently learning **full-stack development**
+- 💬 Ask me about **Rust, Golang, Javascript, and React**
 
-- 📫 How to reach me **zwenyanzaw@protonmail.com**
+- 🌱 I’m currently learning **backend development**
 
-- 🚀 My website 👉🏻 <a href="https://dreamlinelove.dev" target="blank">https://dreamlinelove.dev</a>
-
-- 📰 My blog 👉🏻 <a href="https://dreamlinelove.dev/blog" target="blank">https://dreamlinelove.dev/blog</a>
+- 📫 Reach me at 👉🏻 **zwenyanzaw@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,23 +29,34 @@
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="ReactJS">
-<br>
-<img src="https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro">
-<img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS">
-<img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white" alt="Redux">
-<br>
-<img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="TailwindCSS">
-<img src="https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled-Components">
-<br>
-<img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS">
-<img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" alt="Markdown">
-<img src="https://img.shields.io/badge/PWA-5A0FC8.svg?style=for-the-badge&logo=PWA&logoColor=white" alt="PWA">
-<br>
+<h2 align="left">Languages and Tools:</h3>
+<h4 style="margin: 5px; display: block; background: red;">I mostly write</h4>
+<p>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+</p>
+<h4 style="margin: 5px; display: block; background: red;">I am also familiar with</h4>
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript">
+</p>
+
+<h4 style="margin: 5px; display: block; background: red;">I have also written a lot of frontend stuff such as</h4>
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="ReactJS">
+  <img src="https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro">
+  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS">
+ <br>
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled-Components">
+ <br>
+  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS">
+  <img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" alt="Markdown">
+  <img src="https://img.shields.io/badge/PWA-5A0FC8.svg?style=for-the-badge&logo=PWA&logoColor=white" alt="PWA">
+ <br>
 </p>
 
 ![DreamLineLove's GitHub stats](https://github-readme-stats.vercel.app/api?username=dreamlinelove&theme=tokyonight)

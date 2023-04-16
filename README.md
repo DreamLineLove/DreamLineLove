@@ -10,30 +10,42 @@
 
 - 🔭 I’m currently studying my bachelor's in **Computer Science**
 
+<!---
 - 🚀 My current domain is **Server and Backend engineering**, although I have done a lot of frontend 
+--->
 
+<!---
 - 🤔 So in a way I can do **both** frontend and backend
+--->
 
+<!---
 - 💬 Ask me about **Rust, Golang, Javascript, and React**
+--->
 
+<!---
 - 🌱 I’m currently learning **full-stack engineering**
+--->
 
+<!---
 - 📫 Reach me at 👉🏻 **zwenyanzaw@protonmail.com**
+--->
 
+<!---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/dreamlinelove.dev" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="DreamLiveLove's Facebook Account" /></a>
 <a href="https://codepen.io/dreamlinelove" target="blank"><img align="center" src="https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=CodePen&logoColor=white" alt="DreamLiveLove's Codepen Account" /></a>
 <a href="https://dev.to/dreamlinelove" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="DreamLiveLove's Dev.to Account"/></a>
 <a href="https://instagram.com/dreamlinelove.dev" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="DreamLiveLove's Instagram Account" /></a>
+--->
 
 </p>
 
 <h2 align="left">Languages and Tools:</h3>
 <h4 style="margin: 5px; display: block; background: red;">I mostly write</h4>
 <p>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
 </p>
 <h4 style="margin: 5px; display: block; background: red;">I am also familiar with</h4>

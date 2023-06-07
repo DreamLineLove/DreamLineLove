@@ -1,15 +1,18 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=My+name's+Zwe+Nyan+Zaw.;I'm+a+Software+Engineering+Student." alt="typing intro">
+<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=My+name's+Zwe+Nyan+Zaw.;a+Software+Engineer/+Student." alt="typing intro">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreamlinelove&label=Profile%20views&color=0e75b6&style=flat-square" alt="dreamlinelove" /></p>
 
-- 🌐 I speak Burmese, English and a little bit German.
+- 🈯 I speak Burmese, English and a little bit German.
 - 👨‍🎓 I'm currently studying for my bachelor's in **Computer Science**.
 - 🔎 I'm interested in any kind of work including open-source and working for non-profit.
 - 💬 Feel free to hit me up any time 😉! 
 - Reach me at 👉🏻 zwenyanzaw@protonmail.com
+<br>
 <a href="https://linkedin.com/dreamlinelove" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-0072b1.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="DreamLiveLove's Instagram Account" /></a>
-
+<br>
+<br>
+<br>
 <!---
 - 🔭 I’m currently studying my bachelor's in **Computer Science**
 --->
@@ -47,7 +50,8 @@
 </p>
 --->
 
-## Tools and Experience
+
+# Tools and Experience
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
@@ -71,9 +75,9 @@
 	- working with ***pointers***
 	- working with ***strings***
 	- using *defer*
-- I am actively working towards figuring the language out and start building my own projects written in Go
+- I am actively working towards figuring the language out and start building my own projects written in Go.
 ## Javascript
-- For the most of my time before Golang, I was in the frontend space for nearly 2 years. 
+- For the most of my time before Golang, I was in the full-stack space for nearly 2 years. 
 - Though I'm not actively working in that space anymore, I will nevertheless state the tools I've used and the kind of projects I've built using them.
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="ReactJS">
@@ -91,6 +95,22 @@
   <img src="https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled-Components">
  <br>
 </p>
+
+- I wrote bespoke full-stack applications such as:
+	- a dating app, 
+	- webrtc audio chat app, 
+	- English learning app,
+	- and more... often making them PWA-compatible.
+- You can check out ***just a few*** of the Javascript-ecosystem-based apps that I've built at <a href="github.com/dream-line-love/">my old github account</a>.
+
+## Rust
+<img src="https://rustacean.net/assets/rustacean-flat-gesture.png" width="250px" />
+
+- The overwhelming feeling of using so many external packages in the Javascript/React/node ecosystem pushed me over the edge to pursue other languages.
+- After writing Rust for a couple of weeks, I fell in love with the compiler, its type system, and Cargo. 
+- I was one of the few people who got the ***borrow checker*** concept relatively quickly.
+- Although I did stop writing Rust after a few weeks, the low-level-mindedness of the language opened up to me important concepts like using pointers, performance, and memory safety, things I've never had to deal with when using Javascript.
+- Thanks to the experience of having used Rust, I am better prepared when writing Go apps.
 
 ## GitHub stats
 

@@ -101,7 +101,7 @@
 	- webrtc audio chat app, 
 	- English learning app,
 	- and more... often making them PWA-compatible.
-- You can check out ***just a few*** of the Javascript-ecosystem-based apps that I've built at <a href="github.com/dream-line-love/">my old github account</a>.
+- You can check out ***just a few*** of the Javascript-ecosystem-based apps that I've built at <a href="https://github.com/dream-line-love/">my old github account</a>.
 
 ## Rust
 <img src="https://rustacean.net/assets/rustacean-flat-gesture.png" width="250px" />

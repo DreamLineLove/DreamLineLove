@@ -61,6 +61,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript">
 </p>
+<br>
 
 ## Golang
 <img src="https://www.golinuxcloud.com/wp-content/uploads/goher2-1-218x300.jpg" width="150px" />
@@ -76,6 +77,8 @@
 	- working with ***strings***
 	- using *defer*
 - I am actively working towards figuring the language out and start building my own projects written in Go.
+<br>
+
 ## Javascript
 - For the most of my time before Golang, I was in the full-stack space for nearly 2 years. 
 - Though I'm not actively working in that space anymore, I will nevertheless state the tools I've used and the kind of projects I've built using them.
@@ -102,6 +105,7 @@
 	- English learning app,
 	- and more... often making them PWA-compatible.
 - You can check out ***just a few*** of the Javascript-ecosystem-based apps that I've built at <a href="https://github.com/dream-line-love/">my old github account</a>.
+<br>
 
 ## Rust
 <img src="https://rustacean.net/assets/rustacean-flat-gesture.png" width="250px" />
@@ -111,6 +115,7 @@
 - I was one of the few people who got the ***borrow checker*** concept relatively quickly.
 - Although I did stop writing Rust after a few weeks, the low-level-mindedness of the language opened up to me important concepts like using pointers, performance, and memory safety, things I've never had to deal with when using Javascript.
 - Thanks to the experience of having used Rust, I am better prepared when writing Go apps.
+<br>
 
 ## GitHub stats
 

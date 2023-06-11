@@ -112,7 +112,7 @@
 ## Rust
 <img src="https://rustacean.net/assets/rustacean-flat-gesture.png" width="250px" />
 
-- The overwhelming feeling of using so many fast-paced frameworks in the Javascript ecosystem pushed me over the edge to pursue other general languages such as Rust and Golang.
+- The overwhelming feeling of having to use so many fast-paced frameworks in the Javascript ecosystem pushed me over the edge to learn other general-purpose languages such as Rust and Golang.
 - After writing Rust for a couple of weeks, I fell in love with the compiler, its type system, and Cargo. 
 - I was one of the few people who got the ***borrow checker*** concept relatively quickly.
 - Although I did stop writing Rust after a few weeks, the low-level-mindedness of the language opened up to me important concepts like using pointers, performance, and memory safety, things I've never had to deal with when using Javascript.

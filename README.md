@@ -5,7 +5,7 @@
 
 - 🈯 I know Burmese, English and a little bit of German.
 - 👨‍🎓 I'm currently studying for my bachelor's in **Computer Science**.
-- 🔎 I'm interested in any kind of work including open-source and working for non-profit.
+- 🔎 I'm interested in any kind of work — including open-source and working for non-profit.
 - 💬 Feel free to hit me up any time 😉! 
 - Reach me at 👉🏻 zwenyanzaw@protonmail.com
 <br>

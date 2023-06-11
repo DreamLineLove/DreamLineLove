@@ -98,9 +98,10 @@
   <img src="https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled-Components">
  <br>
 </p>
+
 - Before Golang, I wrote front-end and full-stack apps in Javascript for about 2 years. 
 - Though I'm not writing Javascript anymore, I have nevertheless stated the tools I've used and the kind of projects I've built using them.
-- I wrote bespoke full-stack applications such as:
+- I wrote full-stack apps such as:
 	- a dating app, 
 	- webrtc audio chat app, 
 	- English learning app,

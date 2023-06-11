@@ -66,7 +66,9 @@
 ## Golang
 <img src="https://www.golinuxcloud.com/wp-content/uploads/goher2-1-218x300.jpg" width="150px" />
 
+<!--
 - I have been coding in Go for a little over a month now, exploring the language, its syntax and the standard library.
+--->
 - I have familiarity with the following stdlib packages:
 	-  strings
 - I have familiarity with these features in Go:
@@ -75,8 +77,8 @@
 	- working with ***maps***
 	- working with ***pointers***
 	- working with ***strings***
-	- using *defer*
-- I am actively working towards figuring the language out and start building my own projects written in Go.
+	- using *defer, break, continue*
+- I am actively working towards figuring out the language and building my own projects written in Go.
 <br>
 
 ## Javascript

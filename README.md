@@ -82,8 +82,8 @@
 <br>
 
 ## Javascript
-- For the most of my time before Golang, I was in the full-stack space for nearly 2 years. 
-- Though I'm not actively working in that space anymore, I will nevertheless state the tools I've used and the kind of projects I've built using them.
+- Before Golang, I wrote front-end and full-stack apps in Javascript for about 2 years. 
+- Though I'm not writing Javascript anymore, I will nevertheless state the tools I've used and the kind of projects I've built using them.
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="ReactJS">
   <img src="https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro">

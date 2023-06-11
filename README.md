@@ -82,8 +82,6 @@
 <br>
 
 ## Javascript
-- Before Golang, I wrote front-end and full-stack apps in Javascript for about 2 years. 
-- Though I'm not writing Javascript anymore, I will nevertheless state the tools I've used and the kind of projects I've built using them.
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="ReactJS">
   <img src="https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro">
@@ -100,7 +98,8 @@
   <img src="https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled-Components">
  <br>
 </p>
-
+- Before Golang, I wrote front-end and full-stack apps in Javascript for about 2 years. 
+- Though I'm not writing Javascript anymore, I have nevertheless stated the tools I've used and the kind of projects I've built using them.
 - I wrote bespoke full-stack applications such as:
 	- a dating app, 
 	- webrtc audio chat app, 

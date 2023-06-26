@@ -3,7 +3,7 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreamlinelove&label=Profile%20views&color=0e75b6&style=flat-square" alt="dreamlinelove" /></p>
 
-- 🈯 I know Burmese, English professionally and a little bit of German.
+- 🈯 I know Burmese, English (professional capacity) and a little bit of German.
 - 👨‍🎓 I'm currently studying for my undergraduate degreee (bachelor's) in **Computer Science**.
 - 🔎 I'm interested in any kind of work — including open-source and non-profit.
 - 💬 Feel free to hit me up any time 😉! 

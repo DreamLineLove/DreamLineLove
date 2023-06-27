@@ -72,15 +72,22 @@
 <!--
 - I have been coding in Go for a little over a month now, exploring the language, its syntax and the standard library.
 --->
+- I have built the following type of projects in Go:
 - I have familiarity with the following stdlib packages:
 	-  strings
 - I have familiarity with these features in Go:
+	<!--
 	- module and import system
+  	--->
 	- working with ***arrays and slices***
 	- working with ***maps***
+ 	<!--
 	- working with ***pointers***
+  	--->
 	- working with ***strings***
+   	<!--
 	- using *defer, break, continue*
+   	--->
 - I am actively working towards figuring out the language and building my own projects written in Go.
 <br>
 

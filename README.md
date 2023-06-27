@@ -88,7 +88,7 @@
    	<!--
 	- using *defer, break, continue*
    	--->
-- I am actively working towards figuring out the language and building my own projects written in Go.
+- I believe in knowing the language, tools, workflows, best practices, and the domain really close to heart and settling down, instead of jumping ship in sight of new shiny stuff.
 <br>
 
 ## Javascript

@@ -111,19 +111,16 @@
 - The types of full-stack applications I have experience writing include:
 	- a dating app, 
 	- webrtc audio chat app, 
-	- English learning app,
-	- and more.
- - I also have experience making PWA-first web applications.
+	- English learning app, and more.
+ - I also have extensive experience writing PWA-first web applications.
 <br>
 
-## Rust
+## Other Languages
+### Rust
 <img src="https://rustacean.net/assets/rustacean-flat-gesture.png" width="250px" />
 
-- The overwhelming feeling of having to use so many fast-paced frameworks in the Javascript ecosystem pushed me over the edge to learn other general-purpose languages such as Rust and Golang.
-- After writing Rust for a couple of weeks, I fell in love with the compiler, its type system, and Cargo. 
-- I was one of the few people who got the ***borrow checker*** concept relatively quickly.
-- Although I did stop writing Rust after a few weeks, the low-level-mindedness of the language opened up to me important concepts like using pointers, performance, and memory safety, things I've never had to deal with when using Javascript.
-- Thanks to the experience of having used Rust, I am better prepared when writing Go apps.
+- I briefly explored the Rust programming language for about two weeks.
+- Contrary to popular opinion, I did **not** find the concept of the *borrow checker* difficult to wrap my head around.
 <br>
 
 ## GitHub stats

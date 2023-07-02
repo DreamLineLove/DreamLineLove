@@ -88,7 +88,6 @@
    	<!--
 	- using *defer, break, continue*
    	--->
-- I believe in knowing a particular language, its tools, workflows, best practices, and a specific domain really close to heart, and in choosing to settling down with one language, instead of jumping ship in sight of new shiny stuff.
 <br>
 
 ## Javascript

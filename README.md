@@ -90,6 +90,18 @@
    	--->
 <br>
 
+## C++
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="150px" />
+
+- I have built the following type of projects in C++:
+- I have familiarity with the following stdlib packages:
+	- cstrings
+ 	- cctype
+  	- iostream
+  	- fstream
+- I have familiarity with these featues in C++:  
+<br>
+
 ## Javascript
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="ReactJS">

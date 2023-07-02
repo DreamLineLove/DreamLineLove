@@ -106,7 +106,7 @@
  <br>
 </p>
 
-- Before Golang, I used various frameworks and tools to write full-stack applications in Javascript.
+- I have experience writing full-stack applications in modern Javascript frameworks and tools.
 - Though I'm not writing Javascript anymore, I have nevertheless stated the tools I've used and the kind of projects I've built using them.
 - I wrote full-stack apps such as:
 	- a dating app, 

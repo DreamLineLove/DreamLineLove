@@ -96,19 +96,17 @@
   <img src="https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro">
   <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS">
   <img src="https://img.shields.io/badge/Svelte-fff000.svg?style=for-the-badge&logo=Svelte&logoColor=**#aa1e1e**" alt="Svelte">
- <br>
   <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS">
   <img src="https://img.shields.io/badge/Firebase-f5820d.svg?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase">
   <img src="https://img.shields.io/badge/PWA-5A0FC8.svg?style=for-the-badge&logo=PWA&logoColor=white" alt="PWA">
   <img src="https://img.shields.io/badge/Supabase-000000.svg?style=for-the-badge&logo=Supabase&logoColor=g" alt="Supabase">
-<br>
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="TailwindCSS">
   <img src="https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled-Components">
  <br>
 </p>
 
-- Before Golang, I wrote front-end and full-stack apps in Javascript for about 2 years. 
+- Before Golang, I used various frameworks and tools to write full-stack applications in Javascript.
 - Though I'm not writing Javascript anymore, I have nevertheless stated the tools I've used and the kind of projects I've built using them.
 - I wrote full-stack apps such as:
 	- a dating app, 

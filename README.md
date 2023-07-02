@@ -70,7 +70,7 @@
 <img src="https://www.golinuxcloud.com/wp-content/uploads/goher2-1-218x300.jpg" width="150px" />
 
 <!--
-- I have been coding in Go for a little over a month now, exploring the language, its syntax and the standard library.
+- I have been writing Go for a little over a month now, exploring the language, its syntax and the standard library.
 --->
 - I have built the following type of projects in Go:
 - I have familiarity with the following stdlib packages:
@@ -107,7 +107,7 @@
 </p>
 
 - I have experience writing full-stack applications in modern Javascript frameworks and tools.
-- Though I'm not writing Javascript anymore, I have nevertheless stated the tools I've used and the kind of projects I've built using them.
+- That's why I feel comforatble writing Javascript and/or frontend in my projects.
 - I wrote full-stack apps such as:
 	- a dating app, 
 	- webrtc audio chat app, 

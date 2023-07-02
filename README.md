@@ -108,12 +108,12 @@
 
 - I have experience writing full-stack applications in modern Javascript frameworks and tools.
 - That's why I feel comforatble writing Javascript and/or frontend in my projects.
-- I wrote full-stack apps such as:
+- The types of full-stack applications I have experience writing include:
 	- a dating app, 
 	- webrtc audio chat app, 
 	- English learning app,
-	- and more... often making them PWA-compatible.
-- You can check out ***just a few*** of the Javascript-ecosystem-based apps that I've built at <a href="https://github.com/dream-line-love/">my old github account</a>.
+	- and more.
+ - I also have experience making PWA-first web applications.
 <br>
 
 ## Rust

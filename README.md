@@ -133,7 +133,7 @@
 <br>
 
 ## Other Languages
-### Rust
+### Rust Programming Language
 <img src="https://rustacean.net/assets/rustacean-flat-gesture.png" width="250px" />
 
 - I briefly explored the Rust programming language for about two weeks.

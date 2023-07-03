@@ -129,7 +129,7 @@
 	- a dating app, 
 	- webrtc audio chat app, 
 	- English learning app, and more.
- - I also have extensive experience writing PWA-first web applications.
+ - I have extensive experience writing PWA-first web applications because almost all projects I have written required streamlined PWA optimizations.
 <br>
 
 ## Other Languages

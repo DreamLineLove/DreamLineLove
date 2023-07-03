@@ -93,18 +93,18 @@
 ## C++
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="150px" />
 
-- I have built the following type of projects in C++:
+- I have built the following type of projects in Cpp:
 - I have basic familiarity with the following stdlib packages:
 	- cstrings
  	- cctype
   	- iostream
   	- fstream
-- I have basic familiarity with these featues in C++:
+- I have basic familiarity with these featues in Cpp:
 	- Functions, function prototypes
- 	- Pointers
+ 	- **Pointers**
   	- For and if statements
-  	- C-style character array strings
-  	- Multi-dimentional arrays  
+  	- C-style **character array strings**
+  	- Multi-dimentional **arrays**  
 <br>
 
 ## Javascript

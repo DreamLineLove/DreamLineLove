@@ -141,6 +141,14 @@
 - Contrary to popular opinion, I did **not** find the concept of the *borrow checker* difficult to wrap my head around.
 <br>
 
+### Python Programming Language 🐍
+<hr>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" width="250px" />
+
+- This was arguably the very first language I learned (if we didn't count Apple's Swift programming language!).
+- Although I did not stick to Python, it taught me so many valuable foundations of programming.
+<br>
+
 ## GitHub stats
 
 <!---

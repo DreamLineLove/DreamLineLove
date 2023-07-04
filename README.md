@@ -137,6 +137,7 @@
 <img src="https://rustacean.net/assets/rustacean-flat-gesture.png" width="250px" />
 
 - I briefly explored the Rust programming language for about two weeks.
+- I followed closely *the Rust book* up until chapter 10. 
 - Contrary to popular opinion, I did **not** find the concept of the *borrow checker* difficult to wrap my head around.
 <br>
 

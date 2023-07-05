@@ -101,6 +101,7 @@
   	- fstream
   	- iomanip
   	- cstdlib
+  	- cmath
 - I have basic familiarity with these featues in Cpp:
 	- Functions, function prototypes
  	- **Pointers**

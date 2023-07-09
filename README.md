@@ -91,7 +91,7 @@
 <br>
 
 ## C++
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="150px" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="140px" />
 
 - I have built the following type of projects in Cpp:
 - I have basic familiarity with the following stdlib packages:
@@ -137,7 +137,7 @@
 
 ## Other Languages
 ### Rust Programming Language
-<img src="https://rustacean.net/assets/rustacean-flat-gesture.png" width="250px" />
+<img src="https://rustacean.net/assets/rustacean-flat-gesture.png" width="215px" />
 
 - I briefly explored the Rust programming language for about two weeks.
 - I followed closely *the Rust book* up until chapter 10. 
@@ -146,7 +146,7 @@
 
 ### Python Programming Language 🐍
 <hr>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" width="250px" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" width="175px" />
 
 - This was arguably the very first language I learned (if we didn't count Apple's Swift programming language!).
 - Although I did not stick to Python, it taught me so many valuable foundations of programming.

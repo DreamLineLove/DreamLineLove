@@ -3,13 +3,12 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreamlinelove&label=Profile%20views&color=0e75b6&style=flat-square" alt="dreamlinelove" /></p>
 
-- 🈯 I know English, Burmese and Deutsch (Aber nur ein Bisschen).
+- 🈯 Born in Burma, I speak English professionally and German just a little. 
 - 👨‍🎓 I'm an undergrad student majoring in **Computer Science** 💻.
 - 🔎 I'm interested in any kind of work — including open-source and non-profit.
-- 💬 Feel free to hit me up any time 😉! 
 - Reach me at 👉🏻 zwenyanzaw@protonmail.com and on
-- I am currently learning backend development.
 <a href="https://linkedin.com/dreamlinelove" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-0072b1.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="DreamLiveLove's Instagram Account" /></a>
+- 💬 Feel free to hit me up any time 😉! 
 <br>
 <br>
 

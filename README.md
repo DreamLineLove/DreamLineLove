@@ -7,9 +7,9 @@
 - 🔎 I'm interested in any kind of work — including open-source and non-profit.
 --->
 
-- 🈯 Based in Burma, I have professional capacity in English and speak German just a little bit. 
+- 🈯 Based in Burma, English: profesional capacity, German: beginner.
 - 👨‍🎓 I'm an undergraduate student majoring in **Computer Science** 💻.
-- 💻 I'm a novice travelling the lone journey of computer science, engineering, and the web.
+- 💻 I'm a novice travelling the exciting journey of computer science, engineering, and the web.
 - 👉🏻 Reach me at  📩 zwenyanzaw@protonmail.com and on
 <a href="https://linkedin.com/dreamlinelove" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-0072b1.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="DreamLiveLove's Instagram Account" /></a>
 - 💬 Feel free to hit me up any time 😉! 

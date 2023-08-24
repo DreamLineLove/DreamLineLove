@@ -7,7 +7,7 @@
 - 🔎 I'm interested in any kind of work — including open-source and non-profit.
 --->
 
-- 💻 I'm a novice engineer fascinated by Computer Science, technology, history and the web.
+- 💻 I'm a novice engineer fascinated by computer science, technology, history and the web.
 - 🈯 Based in Burma, English: professional capacity, German: beginner.
 - 👨‍🎓 I'm currently an undergraduate student majoring in **Computer Science** 💻.
 - 👉🏻 Reach me at  📩 zwenyanzaw@protonmail.com and on

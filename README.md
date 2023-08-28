@@ -9,7 +9,7 @@
 
 - 💻 I'm a novice engineer fascinated by computer science, technology, history and the web.
 - 🈯 Based in Burma, English: professional capacity, German: beginner.
-- 👨‍🎓 I'm currently an undergraduate student majoring in **Computer Science** 💻.
+- 👨‍🎓 I'm an undergraduate student studying **Computer Science** 💻.
 - 👉🏻 Reach me at  📩 zwenyanzaw@protonmail.com and on
 <a href="https://linkedin.com/dreamlinelove" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-0072b1.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="DreamLiveLove's LinkedIn Account" /></a>
 - 💬 Feel free to hit me up any time 😉! 

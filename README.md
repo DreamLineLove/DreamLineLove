@@ -1,11 +1,15 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=My+name's+Clovis;I+am+a+novice+engineer" alt="typing intro">
+<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=My+name's+Clovis;" alt="typing intro">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreamlinelove&label=Profile%20views&color=0e75b6&style=flat-square" alt="dreamlinelove" /></p>
 
 <!---
 - 🔎 I'm interested in any kind of work — including open-source and non-profit.
 --->
+
+My name is Clovis, and I'm a Computer Science undergrad. I am based in Myanmar (Burma).
+
+<!---
 
 - 💻 I'm a novice engineer fascinated by computer science, technology, history and the web.
 - 🈯 Based in Burma, English: professional capacity, German: beginner.
@@ -15,6 +19,8 @@
 - 💬 Feel free to hit me up any time 😉! 
 <br>
 <br>
+
+--->
 
 # Tools and Experience
 <!--

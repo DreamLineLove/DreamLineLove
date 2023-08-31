@@ -7,7 +7,7 @@
 - 🔎 I'm interested in any kind of work — including open-source and non-profit.
 --->
 
-My name is Clovis, and I'm a Computer Science undergrad. I am based in Myanmar (Burma).
+My name is Clovis, and I'm a Computer Science undergrad from Myanmar (Burma).
 
 <!---
 

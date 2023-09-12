@@ -47,7 +47,7 @@ My name is Clovis, and I'm a Computer Science undergrad based in Myanmar (Burma)
 <br>
 <br>
   
-# Upcoming endeavours
+## Upcoming endeavours
 - Regex cli tool rewritten in Go
 - ThePrimeagen's data structures and algorithms course
 

@@ -23,7 +23,10 @@ My name's Zwe (@Clovis), and I'm a Computer Science undergrad based in Myanmar (
 --->
 <br>
 
+<!--
 # Tools and Experience
+--->
+# Programming languages
 <!--
 <p>
 --->
@@ -51,6 +54,16 @@ My name's Zwe (@Clovis), and I'm a Computer Science undergrad based in Myanmar (
 --->
 
 <br>
+
+<!--
+# Tools 
+<p>
+  <img src="https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=white&color=blue">
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Rust">
+</p>
+
+<br>
+--->
   
 ## Upcoming endeavours
 - Regex cli tool rewritten in Go

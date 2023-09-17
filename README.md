@@ -70,6 +70,9 @@ My name's Zwe (@Clovis), and I'm a Computer Science undergrad based in Myanmar (
 - ThePrimeagen's data structures and algorithms course in C
 - A very simple kernel loaded by GRUB on a VM
 - Linux and GNU Parallel
+- NeoVim Lua configuration 
+- Compiler lessons in Java and C
+- Networking from scratch (Go and C/C++)
 
 <br>
 

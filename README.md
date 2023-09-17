@@ -31,14 +31,13 @@ My name's Zwe (@Clovis), and I'm a Computer Science undergrad based in Myanmar (
 <p>
 --->
   <p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang">
   <!--
-  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
   --->
-  
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript">
   </p>
 
@@ -69,7 +68,7 @@ My name's Zwe (@Clovis), and I'm a Computer Science undergrad based in Myanmar (
 - Regex cli tool rewritten in Go
 - ThePrimeagen's data structures and algorithms course in C
 - A very simple kernel loaded by GRUB on a VM
-- Linux and GNU Parallel
+- Linux, deployment and GNU Parallel
 - NeoVim Lua configuration 
 - Compiler lessons in Java and C
 - Networking from scratch (Go and C/C++)

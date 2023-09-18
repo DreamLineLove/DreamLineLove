@@ -46,14 +46,20 @@ My name's Zwe (@Clovis), and I'm a Computer Science undergrad from Myanmar (Burm
 --->
   
 ## Upcoming endeavours
+<!--
 - Regex CLI tool rewritten in Go
-- ThePrimeagen's data structures and algorithms course in C
 - A simple kernel loaded by GRUB on a VM
-- Linux and GNU Parallel
-- Deployment, Linux on VM or Docker
-- NeoVim configuration (Lua + tools) 
-- Compiler lessons in Java and C
 - Networking from scratch (Go and C/C++)
+--->
+- ThePrimeagen's data structures and algorithms course in C
+- Java and algorithms in Java
+- Operating systems course
+- Compiler lessons in C (and Java?)
+- Simple web apps in Java and Go (including SQL)
+- Rust after learning low level stuff
+- Linux and GNU Parallel
+- Deployment (Linux on VM and on Docker)
+- NeoVim configuration (Lua + tools)
 <br>
 
 ## GitHub stats

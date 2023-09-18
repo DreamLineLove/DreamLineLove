@@ -58,8 +58,8 @@ My name's Zwe (@Clovis), and I'm a Computer Science undergrad from Myanmar (Burm
 - Simple web apps in Java and Go (including SQL)
 - Rust after learning low level stuff
 - Linux and GNU Parallel
-- Deployment (Linux on VM and on Docker)
-- NeoVim configuration (Lua + tools)
+- Deployment (linux on VM and on Docker)
+- Neovim configuration (lua + tools)
 <br>
 
 ## GitHub stats

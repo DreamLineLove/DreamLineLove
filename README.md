@@ -59,7 +59,7 @@ My name's Zwe (@Clovis), and I'm a Computer Science undergrad from Myanmar (Burm
 - Compiler lessons in C (and Java?)
 - Database indexing and deabstractifying of concepts usually taken for granted
 - Rust after learning low level stuff
-- Linux and GNU Parallel
+- Linux, Bash, and GNU Parallel
 - Deployment on own PC or on a simple VM (learn DNS and networking)
 - Neovim configuration (lua + tools)
 <br>

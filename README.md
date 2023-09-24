@@ -30,6 +30,7 @@ My name's Zwe (@Clovis), and I'm a Computer Science undergrad from Myanmar (Burm
     <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   --->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript">
@@ -52,16 +53,16 @@ My name's Zwe (@Clovis), and I'm a Computer Science undergrad from Myanmar (Burm
 - Networking from scratch (Go and C/C++)
 - Simple web apps in Java and Go (including SQL)
 - Deployment (linux on VM and on Docker)
+- De-abstractification of concepts usually taken for granted
 --->
 - ThePrimeagen's data structures and algorithms course in C
-- Java and algorithms in Java
-- Operating systems course
-- Compiler lessons in C (and Java?)
-- Database indexing and deabstractifying of concepts usually taken for granted
-- Rust after learning low level stuff
-- Linux, Bash, and GNU Parallel
+- Java programming language, and OOP patterns
+- Operating systems (kernel) course and compiler lessons
+- Database indexing, TCP/IP, HTTP protocols implementation 
+- Rust and OCaml after high enough low-level sensitivity is gained
+- Linux OS, Bash, and GNU Parallel
 - Deployment on own PC or on a simple VM (learn DNS and networking)
-- Neovim configuration (lua + tools)
+- Neovim configuration (lua + ecosystem) and Tmux
 <br>
 
 ## GitHub stats

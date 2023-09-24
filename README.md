@@ -60,8 +60,8 @@ My name's Zwe (@Clovis), and I'm a Computer Science undergrad from Myanmar (Burm
 - Operating systems (kernel) course and compiler lessons
 - Database indexing, TCP/IP, HTTP protocols implementation 
 - Rust and OCaml after high enough low-level sensitivity is gained
-- Linux OS, Bash, and GNU Parallel
-- Deployment on own PC or on a simple VM (learn DNS and networking)
+- Linux, Bash, and GNU Parallel
+- Deployment (learn DNS, networking, VM or Docker, and NGINX)
 - Neovim configuration (lua + ecosystem) and Tmux
 <br>
 

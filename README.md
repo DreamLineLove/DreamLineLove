@@ -56,13 +56,13 @@ My name's Zwe (@Clovis), and I'm a Computer Science undergrad from Myanmar (Burm
 - De-abstractification of concepts usually taken for granted
 --->
 - ThePrimeagen's data structures and algorithms course in C
-- Java programming language, and OOP patterns
+- Java programming language, and Object-Oriented paradigm
 - Operating systems (kernel) course and compiler lessons
-- Database indexing, TCP/IP, HTTP protocols implementation 
+- Database indexing, TCP/IP, HTTP protocol custom implementation 
 - Rust and OCaml after high enough low-level sensitivity is gained
 - Linux, Bash, and GNU Parallel
 - Deployment (learn DNS, networking, VM or Docker, and NGINX)
-- Neovim configuration (lua + ecosystem) and Tmux
+- Neovim configuration (lua + ecosystem) and tmux
 <br>
 
 ## GitHub stats

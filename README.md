@@ -45,6 +45,20 @@ My name's Zwe (@Clovis), and I'm a Computer Science undergrad from Myanmar (Burm
 </p>
 <br>
 --->
+
+<!--
+### Goals
+- Learn to use Linux, basic and popular Linux utilities (including command-line-only Linux).
+- Writing protocols that are often taken for granted from scratch in C (including TCP, HTTP, and makeshift database)
+- C programming language and concurrent programming in C
+- Starting from simple databases like SQLLite to PostgresSQL
+- Low-level programs like Compilers and Kernels in C
+- After being exposed to a lot of low-level stuff, learn Rust
+- A host of other development tools such as Tmux, Lua configuration with Neovim, Docker, and site-level CI/CD.
+- Networking at a high level and hosting a server/website.
+- Java programming language, OOP patterns, and if possible, a small web app hosted from start to finish (in Java)
+
+--->
   
 ## Upcoming endeavours
 <!--

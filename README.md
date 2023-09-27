@@ -57,7 +57,21 @@ My name's Zwe (@Clovis), and I'm a Computer Science undergrad from Myanmar (Burm
 - A host of other development tools such as Tmux, Lua configuration with Neovim, Docker, and site-level CI/CD.
 - Networking at a high level and hosting a server/website.
 - Java programming language, OOP patterns, and if possible, a small web app hosted from start to finish (in Java)
+--->
 
+<!--
+### Overall Goals
+- Learn to use Linux as a server environment as well as your development environment
+- Development tools such as Docker, CI/CD, Tmux annd Neovim configuration
+- C programming language and its quirks
+- Data structures and algorithms in C
+- Concurrency and parallelism in C
+- Learn how to write operating system and language stuff with C (and understand many low-level details)
+- Implement protocols that are taken for granted from scratch in C (including TCP, HTTP, and a makeshift database)
+- Implement networking at a high level and host a server/website from start to finish
+- Databases from simple to advanced
+- Java programming language and Go programming language
+- Learn modern web development techniques and implement them in Java or Go
 --->
   
 ## Upcoming endeavours

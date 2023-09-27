@@ -73,6 +73,21 @@ My name's Zwe (@Clovis), and I'm a Computer Science undergrad from Myanmar (Burm
 - Java programming language and Go programming language
 - Learn modern web development techniques and implement them in Java or Go
 --->
+
+<!--
+### Overlook
+- Linux, and development tools
+- C programming language
+- Data structures and algorithms in C
+- Concurrency and paralleism in C
+- Protocols in C (including networking)
+- Compiler class in C
+- Operating systems class in C
+- Java programming language
+- High-level networking and deployment from start to finish 
+- Databases from simple to advanced
+- Learn web development practices 
+--->
   
 ## Upcoming endeavours
 <!--

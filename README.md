@@ -97,7 +97,6 @@ My name's Zwe (@Clovis), and I'm a Computer Science undergrad from Myanmar (Burm
 - Simple web apps in Java and Go (including SQL)
 - Deployment (linux on VM and on Docker)
 - De-abstractification of concepts usually taken for granted
---->
 - ThePrimeagen's data structures and algorithms course in C
 - Java programming language, and Object-Oriented paradigm
 - Operating systems (kernel) course and compiler lessons
@@ -106,6 +105,17 @@ My name's Zwe (@Clovis), and I'm a Computer Science undergrad from Myanmar (Burm
 - Linux, Bash, and GNU Parallel
 - Deployment (learn DNS, networking, VM or Docker, and NGINX)
 - Neovim configuration (lua + ecosystem) and tmux
+--->
+- Using C programming language to write programs (including manual memory management and concurrent programs)
+- Data structures (and algorithms) in C
+- Low-level programming in C (including networking protocols, TCP/IP, HTTP, packets, I/O, databases)
+- Learning compilers, garbage collection (interpreters) and operating systems (using C and ASM)
+- Linux, Bash, Tmux and Neovim configuration (lua + ecosystem)
+- Arch Linux (if I'm feeling brave)
+- Deployment (high-level networking, DNS, NGINX, Docker)
+- Rust or OCaml after decent low-level understanding
+- Databases from simple to advanced 
+- Java programming language and enterprise use
 <br>
 
 ## GitHub stats

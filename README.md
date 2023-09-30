@@ -106,16 +106,15 @@ My name's Zwe (@Clovis), and I'm a Computer Science undergrad from Myanmar (Burm
 - Deployment (learn DNS, networking, VM or Docker, and NGINX)
 - Neovim configuration (lua + ecosystem) and tmux
 --->
-- Using C programming language (including manual memory management and concurrent programs)
-- Data structures (and algorithms) in C
-- Low-level programming in C (including networking protocols, TCP/IP, HTTP, packets, I/O, databases)
-- Learning compilers, garbage collection (interpreters) and operating systems (using C and ASM)
-- Linux, Bash, Tmux and Neovim configuration (lua + ecosystem)
-- Arch Linux (if I'm feeling brave)
-- Deployment (high-level networking, DNS, Nginx, VMs, Docker)
-- Rust or OCaml after decent low-level understanding
+- Using C programming language (including manual memory management and programs with concurrency/parallelism)
+- Data structures and algorithms in C
+- Low-level programming in C (including networking protocols, packets, STUN, TCP/ IP, HTTP, I/O, databases)
+- Learning compilers, garbage collection (interpreters) and operating systems (using C, ASM, and VM simulation)
+- Linux, Bash, Tmux, Neovim (lua + ecosystem) configuration, and Arch Linux (if I'm feeling brave)
+- Deployment (high-level networking, DNS, Nginx, Virtual machines, Docker)
+- Rust or OCaml after decent CS/ low-level understanding
 - Databases from simple to advanced 
-- Using Java programming language (including web and database uses)
+- Using Java programming language
 <br>
 
 ## GitHub stats

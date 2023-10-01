@@ -45,49 +45,6 @@ My name's Zwe (@Clovis), and I'm a Computer Science undergrad from Myanmar (Burm
 </p>
 <br>
 --->
-
-<!--
-### Goals
-- Learn to use Linux, basic and popular Linux utilities (including command-line-only Linux).
-- Writing protocols that are often taken for granted from scratch in C (including TCP, HTTP, and makeshift database)
-- C programming language and concurrent programming in C
-- Starting from simple databases like SQLLite to PostgresSQL
-- Low-level programs like Compilers and Kernels in C
-- After being exposed to a lot of low-level stuff, learn Rust
-- A host of other development tools such as Tmux, Lua configuration with Neovim, Docker, and site-level CI/CD.
-- Networking at a high level and hosting a server/website.
-- Java programming language, OOP patterns, and if possible, a small web app hosted from start to finish (in Java)
---->
-
-<!--
-### Overall Goals
-- Learn to use Linux as a server environment as well as your development environment
-- Development tools such as Docker, CI/CD, Tmux annd Neovim configuration
-- C programming language and its quirks
-- Data structures and algorithms in C
-- Concurrency and parallelism in C
-- Learn how to write operating system and language stuff with C (and understand many low-level details)
-- Implement protocols that are taken for granted from scratch in C (including TCP, HTTP, and a makeshift database)
-- Implement networking at a high level and host a server/website from start to finish
-- Databases from simple to advanced
-- Java programming language and Go programming language
-- Learn modern web development techniques and implement them in Java or Go
---->
-
-<!--
-### Overlook
-- Linux, and development tools
-- C programming language
-- Data structures and algorithms in C
-- Concurrency and paralleism in C
-- Protocols in C (including networking)
-- Compiler class in C
-- Operating systems class in C
-- Java programming language
-- High-level networking and deployment from start to finish 
-- Databases from simple to advanced
-- Learn web development practices 
---->
   
 ## Upcoming endeavours
 <!--
@@ -97,14 +54,6 @@ My name's Zwe (@Clovis), and I'm a Computer Science undergrad from Myanmar (Burm
 - Simple web apps in Java and Go (including SQL)
 - Deployment (linux on VM and on Docker)
 - De-abstractification of concepts usually taken for granted
-- ThePrimeagen's data structures and algorithms course in C
-- Java programming language, and Object-Oriented paradigm
-- Operating systems (kernel) course and compiler lessons
-- Database indexing, TCP/IP, HTTP protocol custom implementation 
-- Rust and OCaml after high enough low-level sensitivity is gained
-- Linux, Bash, and GNU Parallel
-- Deployment (learn DNS, networking, VM or Docker, and NGINX)
-- Neovim configuration (lua + ecosystem) and tmux
 --->
 - C programming language (including manual memory management & programs with concurrency/parallelism)
 - Data structures and algorithms in C

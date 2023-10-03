@@ -3,7 +3,7 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreamlinelove&label=Profile%20views&color=0e75b6&style=flat-square" alt="dreamlinelove" /></p>
 
-- My name's Zwe (@Clovis), and I'm a Computer Science undergrad from Myanmar (Burma).
+My name's Zwe (@Clovis), and I'm a Computer Science undergrad from Myanmar (Burma).
 <br>
 <br>
 

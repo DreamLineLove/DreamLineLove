@@ -48,7 +48,6 @@ My name's Zwe (@Clovis), and I'm a Computer Science undergrad from Myanmar (Burm
 
 <!--
 ## Upcoming endeavours
-
 - Regex CLI tool rewritten in Go
 - A simple kernel loaded by GRUB on a VM
 - Networking from scratch (Go and C/C++)
@@ -68,11 +67,10 @@ My name's Zwe (@Clovis), and I'm a Computer Science undergrad from Myanmar (Burm
 <br>
 --->
 
-## Reading List
 <!--
+## LEGACY Reading List
 - <b>C Programming: A Modern Approach</b> <i>K. N. King</i>
 - <b>Algorithms in C</b> <i>Robert Sedgewick</i>
---->
 - <b>The C Programming Language</b> <i>Brian Kernighan and Dennis Ritchie</i>
 - <b>Expert C Programming</b> <i>Peter van der Linden</i>
 - <b>Structure and Interpretation of Computer Programs</b> <i>Harold Abelson and. Gerald Jay Sussman</i>
@@ -81,6 +79,7 @@ My name's Zwe (@Clovis), and I'm a Computer Science undergrad from Myanmar (Burm
 - <b>Compilers: Principles, Techniques, Tools</b> <i>Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman</i>
 - <b>Head First Java</b> <i>Kathy Sierra, Bert Bates</i>
 <br>
+--->
 
 ## GitHub stats
 

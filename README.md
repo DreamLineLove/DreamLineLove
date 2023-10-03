@@ -45,16 +45,17 @@ My name's Zwe (@Clovis), and I'm a Computer Science undergrad from Myanmar (Burm
 </p>
 <br>
 --->
-  
-## Upcoming endeavours
+
 <!--
+## Upcoming endeavours
+
 - Regex CLI tool rewritten in Go
 - A simple kernel loaded by GRUB on a VM
 - Networking from scratch (Go and C/C++)
 - Simple web apps in Java and Go (including SQL)
 - Deployment (linux on VM and on Docker)
 - De-abstractification of concepts usually taken for granted
---->
+
 - C programming language (including manual memory management & programs with concurrency/parallelism)
 - Data structures and algorithms in C
 - Low-level programming in C (including networking protocols, packets, STUN, TCP, IP, HTTP, I/O, databases)
@@ -64,6 +65,12 @@ My name's Zwe (@Clovis), and I'm a Computer Science undergrad from Myanmar (Burm
 - Rust or OCaml after decent foundational/ low-level understanding
 - Databases from simple to advanced 
 - Java programming language
+<br>
+--->
+
+## Reading List
+- <b>C Programming: A Modern Approach</b> <i>K. N. King</i>
+- <b>Algorithms</b> <i>Robert Sedgewick and Kevin Wayne<i>
 <br>
 
 ## GitHub stats

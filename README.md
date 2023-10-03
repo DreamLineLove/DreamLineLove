@@ -1,9 +1,11 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=My+name's+Clovis;" alt="typing intro">
+<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello+there!;" alt="typing intro">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreamlinelove&label=Profile%20views&color=0e75b6&style=flat-square" alt="dreamlinelove" /></p>
 
-My name's Zwe (@Clovis), and I'm a Computer Science undergrad from Myanmar (Burma).
+- 👋 My name's Zwe (@clovis)
+- 🈯 I am based in Myanmar (Burma)
+- 👨‍🎓 And I am studying ***Computer Science*** as an undergrad
 <br>
 <br>
 

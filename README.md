@@ -73,6 +73,7 @@ My name's Zwe (@Clovis), and I'm a Computer Science undergrad from Myanmar (Burm
 - <b>Expert C Programming</b> <i>Peter van der Linden</i>
 - <b>Algorithms</b> <i>Robert Sedgewick and Kevin Wayne</i>
 - <b>Operating Systems: Three Easy Pieces</b> <i>Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau</i>
+- <b>Compilers: Principles, Techniques, Tools</b> <i>Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman</i>
 <br>
 
 ## GitHub stats

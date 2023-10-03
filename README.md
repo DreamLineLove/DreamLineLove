@@ -78,6 +78,7 @@ My name's Zwe (@Clovis), and I'm a Computer Science undergrad from Myanmar (Burm
 - <b>Algorithms in C</b> <i>Robert Sedgewick</i>
 - <b>Operating Systems: Three Easy Pieces</b> <i>Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau</i>
 - <b>Compilers: Principles, Techniques, Tools</b> <i>Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman</i>
+- <b>Head First Java</b> <i>Kathy Sierra, Bert Bates</i>
 <br>
 
 ## GitHub stats

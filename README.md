@@ -70,7 +70,8 @@ My name's Zwe (@Clovis), and I'm a Computer Science undergrad from Myanmar (Burm
 
 ## Reading List
 - <b>C Programming: A Modern Approach</b> <i>K. N. King</i>
-- <b>Algorithms</b> <i>Robert Sedgewick and Kevin Wayne<i>
+- <b>Algorithms</b> <i>Robert Sedgewick and Kevin Wayne</i>
+- <b>Expert C Programming</b> <i>Peter van der Linden</i>
 <br>
 
 ## GitHub stats

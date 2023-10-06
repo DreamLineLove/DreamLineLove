@@ -48,8 +48,9 @@
 <br>
 --->
 
-<!--
+
 ## Upcoming endeavours
+<!--
 - Regex CLI tool rewritten in Go
 - A simple kernel loaded by GRUB on a VM
 - Networking from scratch (Go and C/C++)
@@ -66,8 +67,10 @@
 - Rust or OCaml after decent foundational/ low-level understanding
 - Databases from simple to advanced 
 - Java programming language
-<br>
 --->
+- i3, Tmux, Fzf, Harpoon, Telescope, Neovim config
+<br>
+
 
 <!--
 ## LEGACY Reading List

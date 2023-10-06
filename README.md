@@ -5,7 +5,7 @@
 
 - 👋 My name's Zwe (@Clovis)
 - 🈯 I am based in Myanmar (Burma)
-- 👨‍🎓 I study **Computer Science**
+- 👨‍🎓 I am an undergrad studying **Computer Science**
 <br>
 <br>
 

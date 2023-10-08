@@ -68,7 +68,7 @@
 - Databases from simple to advanced 
 - Java programming language
 --->
-- i3, Tmux, Fzf, Harpoon, Telescope, Neovim config
+- Set up i3, Tmux, Fzf
 <br>
 
 

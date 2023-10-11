@@ -7,7 +7,6 @@
 - 🈯 I am based in Myanmar (Burma)
 - 👨‍🎓 I study **Computer Science**
 <br>
-<br>
 
 <!---
 - 🔎 I'm interested in any kind of work — including open-source and non-profit.

@@ -1,7 +1,11 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello+there!;" alt="typing intro">
 </p>
+
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreamlinelove&label=Profile%20views&color=0e75b6&style=flat-square" alt="dreamlinelove" /></p>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDreamLineLove%2FDreamLineLove&count_bg=%231200FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+--->
 
 - 👋 My name's Zwe (@Clovis)
 - 🈯 I am based in Myanmar (Burma)
@@ -68,7 +72,6 @@
 - Java programming language
 --->
 - Set up i3, Tmux, Fzf
-<br>
 
 
 <!--
@@ -85,7 +88,10 @@
 <br>
 --->
 
+<!--
+
 ## GitHub stats
 
 ![DreamLineLove's GitHub stats](https://github-readme-stats.vercel.app/api?username=dreamlinelove&theme=tokyonight)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DreamLineLove&theme=dark)](https://git.io/streak-stats)
+--->

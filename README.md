@@ -4,3 +4,4 @@
 
 ### Upcoming endeavours
 - Set up **i3**, **Tmux**, and **Fzf** on my personal machine
+- Structure and Interpretation of Computer Programs (wizard book)

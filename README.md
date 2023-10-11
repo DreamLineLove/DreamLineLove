@@ -3,9 +3,9 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreamlinelove&label=Profile%20views&color=0e75b6&style=flat-square" alt="dreamlinelove" /></p>
 
-- 👋 My name's Zwe (@Clovis or @DreamLineLove)
+- 👋 My name's Zwe (@Clovis)
 - 🈯 I am based in Myanmar (Burma)
-- 👨‍🎓 I study undergraduate-level **Computer Science**
+- 👨‍🎓 I study **Computer Science**
 <br>
 <br>
 

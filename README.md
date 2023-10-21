@@ -5,7 +5,7 @@
 ### Current endeavours
 - **Tmux**, **Bash** and simple deployment
 - **Java** and **C** programming languages
-- Various computer science topics
+- Various computer science topic
 
 <!--
 ### Upcoming endeavours

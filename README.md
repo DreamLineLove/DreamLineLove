@@ -4,8 +4,7 @@
 
 ### Current endeavours
 - **Tmux**, **Bash** and simple deployment
-- **Java** and **C** programming languages
-- Various computer science topics
+- **Structure and Interpretation of Computer Programs**
 
 <!--
 ### Upcoming endeavours

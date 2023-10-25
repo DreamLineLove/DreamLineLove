@@ -3,8 +3,8 @@
 </p>
 
 ### Current endeavours
-- **Tmux**, **Bash** and simple deployment
-- **Structure and Interpretation of Computer Programs**
+- **Linux** and **Bash** (for deployment and fundamental OS)
+- **Structure and Interpretation of Computer Programs** (the wizard book)
 
 <!--
 ### Upcoming endeavours

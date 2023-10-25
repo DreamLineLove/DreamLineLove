@@ -4,7 +4,7 @@
 
 ### Current endeavours
 - **Linux** and **Bash** (for deployment and fundamental OS)
-- **Structure and Interpretation of Computer Programs** (the wizard book)
+- **Structure and Interpretation of Computer Programs** (the Wizard book)
 
 <!--
 ### Upcoming endeavours

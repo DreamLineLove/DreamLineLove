@@ -3,7 +3,7 @@
 </p>
 
 ### Current endeavours
-- **Linux** and **Bash** (for deployment and Operating Systems fundamentals)
+- **Linux** (for systems administration, deployment and OS fundamentals)
 - **Structure and Interpretation of Computer Programs** (the Wizard book)
 
 <!--

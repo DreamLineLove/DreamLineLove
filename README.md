@@ -4,7 +4,7 @@
 
 ### Current endeavours
 - **Linux** (for systems administration, deployment and OS fundamentals)
-- **Structure and Interpretation of Computer Programs** (the Wizard book)
+- **Structure and Interpretation of Computer Programs** (the *Wizard* book)
 - **Java** and **C** programming languages
 
 <!--

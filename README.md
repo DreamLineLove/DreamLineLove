@@ -3,9 +3,9 @@
 </p>
 
 ### Current endeavours
-- **Linux** (for systems administration, deployment and OS fundamentals)
+- **Linux** operating system 
 - **Structure and Interpretation of Computer Programs** (the *Wizard* book)
-- **Java** and **C** programming language(s)
+- **Java** and **C** programming languages
 
 <!--
 ### Upcoming endeavours

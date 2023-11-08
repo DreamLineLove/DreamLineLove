@@ -3,9 +3,8 @@
 </p>
 
 ### Current endeavours
-- **Linux** operating system 
+- **Linux** operating system from the ground up
 - **Structure and Interpretation of Computer Programs** (the *Wizard* book)
-- **Java** and **C** programming languages
 
 <!--
 ### Upcoming endeavours

@@ -4,9 +4,11 @@
 
 ### I am currently...
 - Exploring a <a href="https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK">hands-on video course</a> to get a general grasp of Linux
-- Following ThePrimeagen's a <a href="https://frontendmasters.com/courses/developer-productivity/">"Developer Productivity"</a> course to acquaint myself with that landscape
+
+- Following ThePrimeagen's <a href="https://frontendmasters.com/courses/developer-productivity/">"Developer Productivity"</a> course to uncover tools that will enhance my productivity as an Engineer
 
 <!--
 ### Upcoming endeavours
+- Following ThePrimeagen's <a href="https://frontendmasters.com/courses/developer-productivity/">"Developer Productivity"</a> course to uncover tools to make myself a more productive Engineer
 - Set up **i3**, **Tmux**, and **Fzf** on my personal machine
 --->

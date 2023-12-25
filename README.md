@@ -2,16 +2,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello+there!;My+name's+Clovis;I+study+Computer+Science+🖥️;" alt="typing intro">
 </p>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/DreamLineLove/DreamLineLove/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/DreamLineLove/DreamLineLove/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-<!--
-### Upcoming endeavours
-- Following ThePrimeagen's <a href="https://frontendmasters.com/courses/developer-productivity/">"Developer Productivity"</a> course to uncover tools to make myself a more productive Engineer
-- Set up **i3**, **Tmux**, and **Fzf** on my personal machine
+![](https://komarev.com/ghpvc/?username=DreamLineLove)
 
-### I am currently...
-- Exploring a <a href="https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK">hands-on video course</a> to get a general grasp of Linux
-- Following ThePrimeagen's <a href="https://frontendmasters.com/courses/developer-productivity/">"Developer Productivity"</a> course to uncover tools that enhance my productivity as an Engineer
-
-### BTW Factor
-My BTW Factor is not too high but I'm slowly building my way up ;)
---->
